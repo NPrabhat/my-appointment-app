@@ -20,6 +20,8 @@ export default function AppointmentForm({ onSubmit }: AppointmentFormProps) {
     setFormData({ title: '', date: '', time: '', description: '' });
   };
 
+  const today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
+
   return (
     <form onSubmit={handleSubmit} className="bg-white rounded-lg shadow-md p-6 mb-6">
       <h2 className="text-2xl font-bold mb-6 text-gray-800">New Appointment</h2>
@@ -51,6 +53,7 @@ export default function AppointmentForm({ onSubmit }: AppointmentFormProps) {
               value={formData.date}
               onChange={(e) => setFormData({ ...formData, date: e.target.value })}
               className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              min={today} // Set the minimum date to today
             />
           </div>
 

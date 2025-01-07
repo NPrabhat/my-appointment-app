@@ -29,6 +29,10 @@ function App() {
     ));
   };
 
+  const handleDeleteAppointment = (id: string) => {
+    setAppointments(appointments.filter(appointment => appointment.id !== id));
+  };
+
   return (
     <div className="min-h-screen bg-gray-100">
       <div className="max-w-4xl mx-auto py-8 px-4">
@@ -52,6 +56,7 @@ function App() {
               <AppointmentList
                 appointments={appointments}
                 onStatusChange={handleStatusChange}
+                onDelete={handleDeleteAppointment}
               />
             )}
           </div>
